@@ -40,10 +40,10 @@ export default class AboutItem extends Component {
           {Accomplishments.length ? (
             <div>
               <div>
-                <h7>{Accomplishments}</h7>
+                <h7 className="bio">{Accomplishments}</h7>
               </div>
               <div>
-                <ul>
+                <ul className="goals">
                   <li>Showcase the analytical skills I have developed through my abouts.</li>
                   <li>Reflect on how these abouts have shaped my academic and professional goals</li>
                   <li>Highlight some of my accomplishments.</li>
