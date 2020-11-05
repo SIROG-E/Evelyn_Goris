@@ -9,6 +9,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.introText {
+  animation: fadeInLeft; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s; /* don't forget to set a duration! */
+  font-family: "Arima Madurai", cursive !important;
+}
 a {
   color: #ddd1d1;
 }
@@ -301,6 +306,8 @@ small {
 }
 .teal {
   background-image: url(../img/mainImage/Me.jpg);
+  animation: fadeInDown;
+  animation-duration: 1s; /* don't forget to set a duration! */
 }
 @media (min-width: 1200px) {
   #about .container {

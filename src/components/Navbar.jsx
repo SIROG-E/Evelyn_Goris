@@ -34,7 +34,7 @@ export default class Navbar extends Component {
               <Link
                 aria-label="Navigate to the Projects section"
                 to="/projects"
-                className="waves-effect waves-dark indigo-text"
+                className="waves-effect waves-dark deep-purple-text text-lighten-2"
               >
                 <i className="mdi-av-web small" />
                 <span>Projects</span>
@@ -44,7 +44,7 @@ export default class Navbar extends Component {
               <Link
                 aria-label="Navigate to the Skills section"
                 to="/skills"
-                className="waves-effect waves-dark purple-text"
+                className="waves-effect waves-dark pink-text text-lighten-2"
               >
                 <i className="mdi-av-equalizer small" />
                 <span>Skills</span>
@@ -111,7 +111,7 @@ export default class Navbar extends Component {
               <Link
                 aria-label="Navigate to the Projects section"
                 to="/projects"
-                className="waves-effect waves-dark indigo-text"
+                className="waves-effect waves-dark deep-purple-text text-lighten-2"
               >
                 <i className="mdi-av-web small" />
                 <span>Projects</span>
@@ -121,7 +121,7 @@ export default class Navbar extends Component {
               <Link
                 aria-label="Navigate to the Skills section"
                 to="/skills"
-                className="waves-effect waves-dark purple-text"
+                className="waves-effect waves-dark pink-text text-lighten-2"
               >
                 <i className="mdi-av-equalizer small" />
                 <span>Skills</span>
