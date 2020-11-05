@@ -51,6 +51,7 @@ main {
 }
 .teal-text {
   color: #3e2323 !important;
+  font-size: 34px;
 }
 .mdi-navigation-menu {
   color: #3e2323 !important;
@@ -159,6 +160,15 @@ h3 {
   /* The alpha value allows the text and background color
    of the button to still show through. */
   background-color: #2196f333;
+}
+.bio {
+  font-family: "Handlee", cursive;
+  font-size: 20px;
+}
+.goals {
+  font-family: "Handlee", cursive;
+  font-size: 17px;
+  color: rgb(143, 105, 105);
 }
 .card {
   margin-bottom: 60px;
