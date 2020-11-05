@@ -50,7 +50,9 @@ No installation is needed to use this app.
 
 ## Preview
 
-![My React Portfolio Preview]()
+![My React Portfolio Preview](public/static/img/readme/Portfolio_Preview.png)
+
+![Checkout my favicon!](public/static/img/readme/Favicon.png)
 
 ### Website
 
