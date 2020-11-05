@@ -37,7 +37,6 @@ export default class AboutItem extends Component {
             </div>
           </div>
           <div className="role brown-text">{AboutContent.role}</div>
-
           {Accomplishments.length ? (
             <div>
               <div>

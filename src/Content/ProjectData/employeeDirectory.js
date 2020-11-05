@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default {
   name: "Employee Directory",
   about: "An employee directory with React.",

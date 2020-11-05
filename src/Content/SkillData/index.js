@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default {
   programmingLanguages: [
     { name: "Javascript", image: "javascript.png" },

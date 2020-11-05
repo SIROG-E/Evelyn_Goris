@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default {
   name: "Paswword Generator",
   image: "Password_Generator.png",

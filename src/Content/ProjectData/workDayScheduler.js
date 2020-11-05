@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default {
   name: "Work Day Scheduler",
   about: "Third Party API.",

@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default {
   name: "Burger Logger",
   image: "BurgerLogger.png",

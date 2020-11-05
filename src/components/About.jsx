@@ -44,7 +44,6 @@ export default class AboutItem extends Component {
           <div className="role brown-text">{AboutContent.role}</div>
           {Accomplishments.length ? (
             <div>
-              {/* <h6></h6> */}
               <ul>{Accomplishments}</ul>
             </div>
           ) : null}
