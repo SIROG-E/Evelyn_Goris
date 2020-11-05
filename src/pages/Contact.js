@@ -37,6 +37,15 @@ export default class Contact extends Component {
               >
                 linkedin.com/in/evelyn-goris-78668a1b5/
               </a>
+            </h2><h2>
+              Phone:{" "}
+              <a
+                href="tel:423-505-4844"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                (423) 505-4844
+              </a>{" "}
             </h2>
           </blockquote>
         </div>
