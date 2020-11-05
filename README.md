@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Evelyn Goris Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub license](https://img.shields.io/badge/Made%20by-SIROG--E-ab8c9b?style=flat&logo=github)](http://https://github.com/SIROG-E)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This application is my portfolio using React. My updated site contains:
 
-### `npm start`
+- An About page where I introduce myself.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- A Project page with cards of my projects. For each project, I include the following:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  - Project title
 
-### `npm test`
+  - Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - Link to the deployed version
 
-### `npm run build`
+  - Link to the GitHub repository
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - GIF or screenshot of the deployed application
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- A Skill page where I showcase the skills I have gained during the Coding Program.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- A Contact page with links to my GitHub profile & LinkedIn page as well as my email address and phone number.
 
-### `npm run eject`
+- A Resume page with a link to a PDF of my resume.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If you resize the screen you will view my **Mobile-first design**. Navbar hides when screen size is reduced and will display navbar when collapse button is clicked.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Table of Contents
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Description](#description)
+- [Installation](#installation)
+- [Preview](#preview)
+- [Website](#website)
+- [License](#license)
+- [Contributing](#contributing)
+- [Test](#tests)
+- [Questions](#questions)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Installation
 
-## Learn More
+```
+No installation is needed to use this app.
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+`Simply click ` [here](https://evelyn-goris.herokuapp.com/) ` to view my portfolio.`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Preview
 
-### Code Splitting
+![My React Portfolio Preview]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Website
 
-### Analyzing the Bundle Size
+[My React Portfolio Deployed Link](https://evelyn-goris.herokuapp.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+This project is licensed by:\
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributing
 
-### Advanced Configuration
+![GitHub license](https://img.shields.io/badge/Made%20by-SIROG--E-ab8c9b?style=flat&logo=github)\
+[SIROG-E](https://github.com/SIROG-E)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Test
 
-### Deployment
+![](https://img.shields.io/badge/Test-100%25-success?style=flat&logo=node.js)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Questions
 
-### `npm run build` fails to minify
+If you have any questions, contact SIROG-E at goris.evelyn@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Repository
+
+- [GitHub Repo Link](https://github.com/SIROG-E/Evelyn_Goris)
+
+## GitHub
+
+![Image of me](https://avatars2.githubusercontent.com/u/70104520?s=150&u=8e74301d42e60aae2307f5628e80c8f9cf9f8263&v=4)
+
+- Evelyn Goris
+- [GitHub Profile](https://github.com/SIROG-E)
+- goris.evelyn@gmail.com
