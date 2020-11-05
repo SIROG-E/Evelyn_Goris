@@ -10,7 +10,7 @@ export default class Landing extends Component {
         <div className="overlay">
           {this.mainImage}
         </div>
-        <div className="container">
+        <div className="container introText">
           <h2>Hello World, I'm Evelyn! </h2>
         </div>
       </section>
