@@ -42,7 +42,6 @@ main {
 }
 .my-name {
   color: #3e2323 !important;
-
   font-size: 40px !important;
   font-family: "Over the Rainbow", cursive;
 }
@@ -195,6 +194,11 @@ h3 {
   letter-spacing: 1px;
   margin-top: 2rem;
   text-transform: uppercase;
+}
+#name {
+  color: #3e2323 !important;
+  font-size: 25px !important;
+  font-family: "Over the Rainbow", cursive;
 }
 #about .card-action {
   background-color: rgba(0, 0, 0, 0.02);
