@@ -5,7 +5,7 @@ export default class AboutItem extends Component {
     const { AboutContent } = this.props;
     const Accomplishments = AboutContent.accomplishments.map(
       accomplishment => {
-        return <h7 key={accomplishment}>{accomplishment}</h7>;
+        return <div key={accomplishment}>{accomplishment}</div>;
       }
     );
 
@@ -39,8 +39,7 @@ export default class AboutItem extends Component {
           <div className="role brown-text">{AboutContent.role}</div>
           {Accomplishments.length ? (
             <div>
-              <div>
-                <h7 className="bio">{Accomplishments}</h7>
+              <div className="bio">{Accomplishments}
               </div>
               <div>
                 <ul className="goals">

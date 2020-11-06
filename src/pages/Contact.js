@@ -41,7 +41,6 @@ export default class Contact extends Component {
               Phone:{" "}
               <a
                 href="tel:423-505-4844"
-                target="_blank"
                 rel="noopener noreferrer"
               >
                 (423) 505-4844
