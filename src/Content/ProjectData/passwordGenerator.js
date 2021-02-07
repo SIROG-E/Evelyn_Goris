@@ -1,6 +1,6 @@
 // eslint-disable-next-line
 export default {
-  name: "Paswword Generator",
+  name: "Password Generator",
   image: "Password_Generator.png",
   about: "Javascript App.",
   accomplishments: [
